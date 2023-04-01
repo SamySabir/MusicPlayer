@@ -1,0 +1,35 @@
+Naruto Shippuden - Opening 3 | Blue Bird
+Ikimono Gakari
+.20 C 5 SHARP false
+.20 F 5 SHARP false
+.20 G 5 SHARP false
+.75 A 5 NATURAL false
+.75 G 5 SHARP false
+.90 F 5 SHARP false
+.50 R 5 NATURAL false
+.20 C 5 SHARP false
+.20 F 5 SHARP false
+.20 G 5 SHARP false
+.72 A 5 NATURAL false
+.35 B 5 NATURAL false
+.23 A 5 NATURAL false
+.35 B 5 NATURAL false
+.70 C 6 SHARP false
+.60 R 5 NATURAL false
+.20 C 5 SHARP false
+.20 F 5 SHARP false
+.20 G 5 SHARP false
+.75 A 5 NATURAL false
+.75 G 5 SHARP false
+.90 F 5 SHARP false
+.60 R 5 NATURAL false
+.20 F 5 SHARP false
+.20 C 6 SHARP false
+.40 B 5 NATURAL false
+.20 F 5 SHARP false
+.20 C 6 SHARP false
+.40 B 5 NATURAL false
+.40 E 5 NATURAL false
+.40 E 5 NATURAL false
+.20 F 5 SHARP false
+.90 F 5 SHARP false

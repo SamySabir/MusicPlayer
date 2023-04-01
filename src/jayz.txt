@@ -1,0 +1,10 @@
+Dead Presidents
+Jay-Z
+.25 G 4 NATURAL true
+.25 F 5 NATURAL false
+1.75 D 5 NATURAL true
+.25 G 4 NATURAL false
+.25 C 5 NATURAL false
+1.75 A 4 NATURAL false
+.65 G 4 NATURAL false
+1.5 D 4 NATURAL false

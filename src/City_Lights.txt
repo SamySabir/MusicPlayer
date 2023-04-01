@@ -1,0 +1,40 @@
+675, The Gift of the Magi, O. Henry, Short story, $23.86
+831, Pride and Prejudice, Jane Austen, Romantic novel, $20.3
+815, Frankenstein, Mary Wollstonecraft Shelley, Gothic novel, $19.68
+166, A Christmas Carol, Charles Dickens, Novel, $24.7
+460, Moby Dick, Herman Melville, Novel, $26.11
+710, A Tale of Two Cities, Charles Dickens, Historical fiction, $24.42
+429, The Strange Case of Dr. Jekyll and Mr. Hyde, Robert Louis Stevenson, Mystery fiction, $29.94
+781, Flowers for Algernon, Daniel Keyes, Science fiction, $21.45
+834, A Doll's House, Henrik Ibsen, Tragedy, $15.65
+544, Heart of Darkness, Joseph Conrad, Novel, $14.12
+193, The War of the Worlds, H. G. Wells, Science fiction, $15.51
+309, Dracula, Bram Stoker, Gothic Novel, $11.54
+609, The Adventures of Sherlock Holmes, Arthur Conan Doyle, Mystery Fiction, $29.4
+876, Alice's Adventures in Wonderland, Lewis Carroll, Fantasy, $22.74
+144, The Hound of the Baskervilles, Arthur Conan Doyle, Mystery Fiction, $23.39
+902, Adventures of Huckleberry Finn, Mark Twain, Novel, $9.41
+949, The Curious Incident of the Dog in the Night-Time, Mark Haddon, Mystery Fiction, $20.84
+668, Metamorphosis, Franz Kafka, Short story, $19.3
+765, The Yellow Wallpaper, Charlotte Perkins Gilman, Feminist Literature, $27.37
+178, Jane Eyre, Charlotte Brontë, Gothic novel, $21.03
+719, The Woman in White, Wilkie Collins, Mystery Fiction, $12.32
+807, The Scarlet Letter, Nathaniel Hawthorne, Romantic novel, $8.01
+824, The Lord of the Rings, J. R. R. Tolkien, Fantasy, $14.96
+335, Ulysses, James Joyce, novel, $16.19
+671, Matilda, Roal Dahl, Children's literature, $11.17
+498, The Awakening, Kate Chopin, Feminist Literature, $14.62
+397, Great Expectations, Charles Dickens, Novel, $29.95
+652, The Adventures of Tom Sawyer, Mark Twain, Children's literature, $9.01
+517, Peter Pan, J. M. Barrie, Children's literature, $14.21
+340, War and Peace, Leo Tolstoy, Historical fiction, $12.19
+308, The Amazing Adventures of Kavalier and Clay, Michael Chabon, Historical Fiction, $14.11
+667, Harry Potter and the Goblet of Fire, J. K. Rowling, Fantasy, $11.28
+495, White Teeth, Zadie Smith, Novel, $28.3
+212, The Corrections, Jonathan Franzen, Novel, $16.58
+707, Runaway, Alice Munro, short story, $21.37
+291, Cloud Atlas, David Mitchell, Science fiction, $13.95
+483, Never Let Me Go, Kazuo Ishiguro, Science fiction, $15.21
+546, Kafka on the Shore, Haruki Murakami, Fantasy, $17.69
+493, The Road, Cormac McCarthy, Tragedy, $12.64
+631, 2666, Roberto Bolaño, Novel, $9.97
